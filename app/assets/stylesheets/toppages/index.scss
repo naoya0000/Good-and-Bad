@@ -1,0 +1,17 @@
+  #header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    background: image-url("hon.jpg") center center;
+    background-size: cover;
+  }
+
+
+  #header .title {
+    display: block;
+    font-size: 94px;
+    color: black;
+    line-height: 1;
+    letter-spacing: -2px;
+  }
